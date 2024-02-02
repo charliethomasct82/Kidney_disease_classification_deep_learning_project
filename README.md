@@ -15,21 +15,21 @@
 10. app.py
 
 # How to run?
-### STEPS:
+### STEPS 01:
 
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/charliethomasct82/Kidney_disease_classification_deep_learning_project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n kidneydiseaseproject python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate kidneydiseaseproject
 ```
 
 
@@ -57,7 +57,7 @@ open up you local host and port
 
 - [Documentation](https://mlflow.org/docs/latest/index.html)
 
-- [MLflow tutorial](https://youtu.be/qdcHHrsXA48?si=bD5vDS60akNphkem)
+- 
 
 ##### cmd
 - mlflow ui
